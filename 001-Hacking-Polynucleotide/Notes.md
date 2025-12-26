@@ -21,7 +21,7 @@
 > Thursday, August 19, 2004 16:48:27, UTC-06:00</br>
 >
 > Method:</br>
-> 1. Go to "C:/WINDOWS/system32/config/software/Microsoft/Windows NT/CurrentVersion/InstallDate".
+> 1. Go to "C:/WINDOWS/system32/config/software/Microsoft/Windows NT/CurrentVersion".
 > 2. Convert 1092955707 Unix time to human readable datetime.
 
 ![Install Date](Screenshots/03_Install_Date.png)
@@ -183,7 +183,7 @@
 ## 21. A popular IRC (Internet Relay Chat) program called MIRC was installed. What are the user settings that was shown when the user was online and in a chat channel?
 > mIRC User Settings
 > * user: Mini Me
-> * email: none@of.ya
+> * email: none[]()@of.ya
 > * anick: mrevilrulez
 >
 > Method: Go to the file at "C:/Program Files/mIRC/mirc.ini".
